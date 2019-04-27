@@ -1,2 +1,2 @@
-# snake-game-altamash
+# snake-game
 A beautiful snake game with bonus features.
