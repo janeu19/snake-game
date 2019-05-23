@@ -1,2 +1,2 @@
 # snake-game
-A beautiful snake game with bonus features.
+A beautiful 2D snake game with bonus features and beautiful GUI.
